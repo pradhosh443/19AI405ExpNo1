@@ -89,6 +89,8 @@ agent = MedicinePrescribingAgent()
 agent.run()
 ```
 OUTPUT:
+
+
 <img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/b4aaf6b5-bcce-409a-8ebd-d7e4d3809a8b" />
 
 RESULT:
